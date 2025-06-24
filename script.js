@@ -153,7 +153,7 @@
 // শুধু নাম্বারই নয় বরং সংখ্যা কে স্ট্রিং এ রূপান্তর করাকেও টাইপ কাস্টিং / টাইপ কনভার্সন বলা হয়
 
 
-/* Swipe 2 variable via 3 different ways */
+/* Swap 2 variable via 3 different ways */
 
 // 📘 Formula One: Swap two values using a temporary variable
 
@@ -509,7 +509,7 @@
 
 // Question 1 (Make a 4 digit otp --> hint(with the help of math function))
 
-console.log(Math.floor((Math.random()*9000)+1000));
+// console.log(Math.floor((Math.random()*9000)+1000));
 
 // Math.random() → 0 থেকে 1 এর মাঝখানে যেকোনো দশমিক সংখ্যা দেবে (0 বাদে, 1 বাদে)
 
